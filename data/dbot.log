@@ -791,3 +791,34 @@
 (2020-04-09 19:27:08) [[36mverbose[39m]: Listening on port 3000.
 (2020-04-09 19:27:09) [[36mverbose[39m]: Logged in as DevBot#7786!
 (2020-04-09 19:27:09) [[36mverbose[39m]: Running appver 3.2.2
+(2020-04-19 12:23:16) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:25:12) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:25:15) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-19 12:25:15) [[31merror[39m]: SQLITE_ERROR: no such table: t_events
+(2020-04-19 12:25:15) [[31merror[39m]: SQLITE_ERROR: no such table: t_botstats
+(2020-04-19 12:26:05) [[31merror[39m]: SuperMechaCow: ''
+Error: SQLITE_ERROR: no such table: t_users
+(2020-04-19 12:26:05) [[31merror[39m]: SQLITE_ERROR: no such table: t_messages
+(2020-04-19 12:26:44) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:26:45) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-19 12:26:45) [[36mverbose[39m]: Running appver 3.2.2
+(2020-04-19 12:28:25) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:28:27) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-19 12:28:27) [[36mverbose[39m]: Running appver 3.2.2
+(2020-04-19 12:36:11) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-19 12:36:11) [[36mverbose[39m]: Created a message counter combo for: SuperMechaCow
+(2020-04-19 12:38:01) [[33mwarn[39m]: Couldn't find that user
+(2020-04-19 12:38:01) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-19 12:38:01) [[36mverbose[39m]: Created a new profile for: JonyDrake
+(2020-04-19 12:38:02) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-19 12:39:56) [[33mwarn[39m]: Couldn't find that user
+(2020-04-19 12:39:56) [[36mverbose[39m]: Created a new profile for: DevBot
+(2020-04-19 12:43:01) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:43:02) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-19 12:43:02) [[36mverbose[39m]: Running appver 3.2.2
+(2020-04-19 12:56:41) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:56:47) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-19 12:56:47) [[36mverbose[39m]: Running appver 3.2.2
+(2020-04-19 12:57:35) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-19 12:57:36) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-19 12:57:36) [[36mverbose[39m]: Running appver 3.2.2
