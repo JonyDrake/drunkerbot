@@ -1,5 +1,6 @@
 const settings = {
-    'appver' : '3.2.2',
+
+    'appver' : '0.1.0',
     'prefix' : '?',
     'TIMERRESET': 15, // Number of seconds before getting more exp
     'LEVELMULTIPLIER': 100, // You need this much experience * your current level to level up
@@ -15,8 +16,8 @@ const settings = {
         "start": null,
         "end": null
     },
-    urlAPI: 'http://localhost:3000/api/v1/',
-    urlWEB: 'http://localhost:3000/',
+    urlAPI: 'http://127.0.0.1:3000/api/v1/',
+    urlWEB: 'http://127.0.0.1:3000/',
     urlGIT: 'http://www.github.com/SuperMechaCow/drunkerbot'
 }
 
