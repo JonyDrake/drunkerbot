@@ -7,7 +7,7 @@
     "body-parser": "^1.19.0",
     "btoa": "^1.2.1",
     "canvas": "^2.6.1",
-    "discord.js": "^12.1.1",
+    "discord.js": "^12.2.0",
     "enmap": "^5.2.4",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
@@ -34,5 +34,6 @@
   "bugs": {
     "url": "https://github.com/SuperMechaCow/drunkerbot/issues"
   },
-  "homepage": "https://github.com/SuperMechaCow/drunkerbot#readme"
+  "homepage": "https://github.com/SuperMechaCow/drunkerbot#readme",
+  "keywords": []
 }
