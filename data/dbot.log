@@ -1,1 +1,16 @@
 
+(2020-04-22 10:24:41) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-22 10:24:48) [[36mverbose[39m]: Got response from game server: 
+(2020-04-22 10:24:48) [[36mverbose[39m]: Game server authorized!
+(2020-04-22 10:24:49) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-22 10:24:49) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-22 10:26:45) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/22/2020 - 09:26:46: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+(2020-04-22 10:27:08) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/22/2020 - 09:27:09: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
