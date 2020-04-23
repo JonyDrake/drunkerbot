@@ -14,3 +14,193 @@ Unknown command "sv_fullalltalk"
 maxplayers set to 64
 L 04/22/2020 - 09:27:09: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
 Console: "Entering Pre-playtest..."
+(2020-04-22 16:11:06) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-22 16:11:15) [[36mverbose[39m]: Got response from game server: 
+(2020-04-22 16:11:15) [[36mverbose[39m]: Game server authorized!
+(2020-04-22 16:11:15) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-22 16:11:15) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-22 16:15:23) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-22 16:15:24) [[36mverbose[39m]: Got response from game server: 
+(2020-04-22 16:15:24) [[36mverbose[39m]: Game server authorized!
+(2020-04-22 16:15:24) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-22 16:15:24) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-22 16:16:17) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-22 16:16:18) [[36mverbose[39m]: Got response from game server: 
+(2020-04-22 16:16:18) [[36mverbose[39m]: Game server authorized!
+(2020-04-22 16:16:19) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-22 16:16:19) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-22 16:17:37) [[36mverbose[39m]: Playtest live
+(2020-04-22 16:18:56) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-22 16:18:57) [[36mverbose[39m]: Got response from game server: 
+(2020-04-22 16:18:57) [[36mverbose[39m]: Game server authorized!
+(2020-04-22 16:18:58) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-22 16:18:58) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-22 16:19:13) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-22 16:19:13) [[36mverbose[39m]: Got response from game server: 
+(2020-04-22 16:19:13) [[36mverbose[39m]: Game server authorized!
+(2020-04-22 16:19:14) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-22 16:19:14) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-22 16:19:46) [[36mverbose[39m]: Playtest live
+(2020-04-23 15:29:33) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-23 15:29:35) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:29:35) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 15:29:36) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-23 15:29:36) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-23 15:30:30) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:30:34) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 15:30:35) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:30:35) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 15:31:13) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 15:31:14) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:31:14) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 15:35:25) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/23/2020 - 14:35:26: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+(2020-04-23 15:35:29) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/23/2020 - 14:35:31: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+(2020-04-23 15:35:53) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+Usage:  tv_record  <filename> [-instance <inst> ]
+L 04/23/2020 - 14:35:55: [maptesting.smx] Console<0><Console><Console> says: "Entering Wingman Playtest..."
+Console: "Entering Wingman Playtest..."
+L 04/23/2020 - 14:35:55: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Wingman..."
+Console: "Entering Casual-Wingman..."
+(2020-04-23 15:44:17) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:44:19) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 15:44:20) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:44:20) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 15:44:57) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/23/2020 - 14:44:58: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+(2020-04-23 15:45:03) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+L 04/23/2020 - 14:45:04: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Playtest..."
+Console: "Entering Casual-Playtest..."
+Usage:  tv_record  <filename> [-instance <inst> ]
+(2020-04-23 15:45:18) [[36mverbose[39m]: Got response from game server: Can't kick "undefined", name not found
+(2020-04-23 15:48:55) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:48:57) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 15:48:58) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 15:48:58) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 15:49:41) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+L 04/23/2020 - 14:49:43: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Playtest..."
+Console: "Entering Casual-Playtest..."
+CHostage::Precache: missing hostage models for map workshop/1898397299/cs_bad. Adding the default models.
+CHostage::Precache: missing hostage models for map workshop/1898397299/cs_bad. Adding the default models.
+Usage:  tv_record  <filename> [-instance <inst> ]
+(2020-04-23 15:52:55) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 14:52:56: [maptesting.smx] Console<0><Console><Console> says: I've
+Console: I've
+(2020-04-23 15:53:53) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 14:53:55: [maptesting.smx] Console<0><Console><Console> says: I've_come_to_make_an_announcement,_Shadow_the_Hedgehog_is_a_bitchass_mother
+Console: I've_come_to_make_an_announcement,_Shadow_the_Hedgehog_is_a_bitchass_mother
+(2020-04-23 15:54:27) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 14:54:29: [maptesting.smx] Console<0><Console><Console> says: I've_come_to_make_an_announcement,_Shadow_the_Hedgehog_is_a_bitchass_mother
+Console: I've_come_to_make_an_announcement,_Shadow_the_Hedgehog_is_a_bitchass_mother
+(2020-04-23 15:58:22) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 14:58:24: [maptesting.smx] Console<0><Console><Console> says: What_the_fuck_did_you_just_fucking_say_about_me,_you_little_bitch?_I'll_have_you_know_I_graduated_top_of_my_class_in_the_Navy_Seals
+Console: What_the_fuck_did_you_just_fucking_say_about_me,_you_little_bitch?_I'll_have_you_know_I_graduated_top_of_my_class_in_the_Navy_Seals
+(2020-04-23 16:10:56) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:11:01) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 16:11:02) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:11:02) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 16:12:22) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+L 04/23/2020 - 15:12:23: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Playtest..."
+Console: "Entering Casual-Playtest..."
+Usage:  tv_record  <filename> [-instance <inst> ]
+(2020-04-23 16:17:32) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 15:17:33: [maptesting.smx] Console<0><Console><Console> says: uwu
+Console: uwu
+(2020-04-23 16:17:39) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 15:17:40: [maptesting.smx] Console<0><Console><Console> says: uwu
+Console: uwu
+(2020-04-23 16:17:52) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 15:17:54: [maptesting.smx] Console<0><Console><Console> says: uwu
+Console: uwu
+(2020-04-23 16:18:26) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 15:18:28: [maptesting.smx] Console<0><Console><Console> says: bruh
+Console: bruh
+(2020-04-23 16:28:39) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:28:48) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 16:28:49) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:28:49) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 16:30:14) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:30:37) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 16:30:38) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:30:38) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 16:30:56) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:30:58) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 16:30:58) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:30:58) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 16:31:37) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+L 04/23/2020 - 15:31:38: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Playtest..."
+Console: "Entering Casual-Playtest..."
+Rejecting func_breakablesurf at (1978.00, -484.00, -500.50).  Has multiple faces that aren't NODRAW.
+Rejecting func_breakablesurf at (2206.00, -484.00, -500.50).  Has multiple faces that aren't NODRAW.
+Usage:  tv_record  <filename> [-instance <inst> ]
+(2020-04-23 16:36:45) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:36:49) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 16:36:50) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:36:50) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 16:37:06) [[36mverbose[39m]: Got response from game server: Unknown command "sat"
+(2020-04-23 16:37:16) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 15:37:18: [maptesting.smx] Console<0><Console><Console> says: GordonFeetman
+Console: GordonFeetman
+(2020-04-23 16:37:54) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+Usage:  tv_record  <filename> [-instance <inst> ]
+L 04/23/2020 - 15:37:56: [maptesting.smx] Console<0><Console><Console> says: "Entering Wingman Playtest..."
+Console: "Entering Wingman Playtest..."
+Attempted to create unknown entity type tar_max!
+Can't init tar_max
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+Attempted to create unknown entity type tar_min!
+Can't init tar_min
+L 04/23/2020 - 15:37:56: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Wingman..."
+Console: "Entering Casual-Wingman..."
+(2020-04-23 16:38:15) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+Usage:  tv_record  <filename> [-instance <inst> ]
+L 04/23/2020 - 15:38:16: [maptesting.smx] Console<0><Console><Console> says: "Entering Wingman Playtest..."
+Console: "Entering Wingman Playtest..."
+L 04/23/2020 - 15:38:16: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Wingman..."
+Console: "Entering Casual-Wingman..."
+(2020-04-23 16:48:38) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 15:48:40: [maptesting.smx] Console<0><Console><Console> says: I've_come_to_make_an_announcement,_Shadow_the_Hedgehog_is_a_bitchass_mother
+Console: I've_come_to_make_an_announcement,_Shadow_the_Hedgehog_is_a_bitchass_mother
+(2020-04-23 16:54:11) [[36mverbose[39m]: Got response from game server: Unknown command "unbanall"
+(2020-04-23 16:54:43) [[36mverbose[39m]: Got response from game server: Unknown command "removeallid"
+(2020-04-23 16:54:52) [[36mverbose[39m]: Got response from game server: removeallids:  filter removed for 2 user IDs
+(2020-04-23 16:57:15) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/23/2020 - 15:57:17: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+(2020-04-23 16:58:18) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 16:58:18) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 16:58:18) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 17:11:45) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 17:11:46) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 17:11:47) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 17:11:47) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 17:24:56) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 17:24:58) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 17:24:59) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 17:24:59) [[36mverbose[39m]: Game server authorized!
+(2020-04-23 17:27:38) [[36mverbose[39m]: Got response from game server: L 04/23/2020 - 16:27:39: [maptesting.smx] Console<0><Console><Console> says: "Starting the Blackout..."
+Console: "Starting the Blackout..."
+L 04/23/2020 - 16:27:39: [maptesting.smx] Console<0><Console><Console> says: "Starting the Blackout..."
+Console: "Starting the Blackout..."
+(2020-04-23 17:28:57) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-23 17:28:57) [[36mverbose[39m]: Got response from game server: 
+(2020-04-23 17:28:57) [[36mverbose[39m]: Game server authorized!
