@@ -253,3 +253,63 @@ Console: "Starting the Blackout..."
 (2020-04-24 13:16:42) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
 (2020-04-24 13:16:42) [[36mverbose[39m]: Created a message counter combo for: Xayir
 (2020-04-24 13:16:43) [[36mverbose[39m]: Created a new profile for: Xayir
+(2020-04-24 13:51:23) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 13:51:23) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 13:51:23) [[36mverbose[39m]: Created a new profile for: P0TAT0 .-.
+(2020-04-24 13:51:23) [[36mverbose[39m]: Created a message counter combo for: P0TAT0 .-.
+(2020-04-24 13:51:53) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 13:51:53) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-24 13:57:13) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 13:57:13) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 13:57:13) [[36mverbose[39m]: Created a new profile for: enki.
+(2020-04-24 13:57:13) [[36mverbose[39m]: Created a message counter combo for: enki.
+(2020-04-24 13:59:18) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 13:59:20) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 13:59:20) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 14:00:01) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 14:00:03) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 14:00:03) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 14:00:05) [[36mverbose[39m]: Playtest starting in 1 hour: De_Kalimera [W.I.P.]
+(2020-04-24 14:00:17) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:00:18) [[36mverbose[39m]: Created a message counter combo for: Xayir
+(2020-04-24 14:02:01) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 14:02:02) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:02:02) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:02:03) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 14:02:03) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 14:02:33) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 14:02:35) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:02:35) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:03:09) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:03:10) [[36mverbose[39m]: Created a message counter combo for: VFuzball
+(2020-04-24 14:03:24) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 14:03:24) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:03:24) [[36mverbose[39m]: Created a new profile for: Coachi
+(2020-04-24 14:03:25) [[36mverbose[39m]: Created a message counter combo for: Coachi
+(2020-04-24 14:04:19) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:04:21) [[36mverbose[39m]: Created a message counter combo for: enki.
+(2020-04-24 14:04:39) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:07:12) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 14:07:17) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:07:17) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:07:18) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 14:07:18) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 14:07:27) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:07:28) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 14:07:29) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:07:29) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:11:02) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 14:11:03) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:11:03) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:11:54) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 13:11:55: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+(2020-04-24 14:12:00) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 13:12:01: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
