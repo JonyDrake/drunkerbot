@@ -15,7 +15,7 @@ exports.help = {
 
 exports.run = (discordClient, message, args) => {
     //This is a command template
-    if (message.member.roles.cache.find(Role => Role.name === 'Perms')) {
+    if (message.member.roles.cache.find(Role => Role.name === 'Playtest Moderator')) {
     db.get(`SELECT * FROM t_playtests WHERE id = ${args[0]};`, function(error, results) {
         if(results.status == 'pending'){
           db.run(`UPDATE t_playtests SET status = 'accepted' WHERE id = ${args[0]};`); 

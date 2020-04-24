@@ -102,7 +102,7 @@ function startPlaytest(mapTest, announce) {
 				.setImage(data.preview_url)
 				.setURL(`${settings.urlWEB}steamgame?ip=${config.GAMESERV_IP}&port=${config.GAMESERV_PORT}`);
 			//.setURL(`steam://connect/${config.GAMESERV_IP}:${config.GAMESERV_PORT}`); //This doesn't work >:[
-			let mapChannel = discordClient.guilds.cache.get(mapTest.guildDID).channels.cache.find(channel => channel.name === 'playtest');
+			let mapChannel = discordClient.guilds.cache.get(mapTest.guildDID).channels.cache.find(channel => channel.name === 'playtest-chat');
 			mapChannel.send(playtestRole, embed);
 		}
 	});

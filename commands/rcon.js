@@ -24,7 +24,7 @@ client.on('auth', function() {
 client.connect();
 
 exports.run = (discordClient, message, args) => {
-    if (message.member.roles.cache.find(Role => Role.name === 'Perms')) {
+    if (message.member.roles.cache.find(Role => Role.name === 'Playtest Moderator')) {
         switch (args[0]) {
             case 'pre':
                 client.send("exec preplaytest");

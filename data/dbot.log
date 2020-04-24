@@ -229,3 +229,27 @@ Console: "Starting the Blackout..."
 (2020-04-23 22:02:08) [[36mverbose[39m]: Time Check! 1587693728
 (2020-04-23 23:00:08) [[36mverbose[39m]: Playtest starting in 1 hour: Submerged
 (2020-04-24 00:00:01) [[36mverbose[39m]: Playtest live: Submerged
+(2020-04-24 11:41:51) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 11:41:58) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 11:41:58) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 11:41:59) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 11:41:59) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 11:42:26) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 11:42:26) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 11:42:26) [[36mverbose[39m]: Created a new profile for: JonyDrake
+(2020-04-24 11:42:26) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-24 11:43:22) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 11:43:22) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 11:43:23) [[36mverbose[39m]: Created a new profile for: VFuzball
+(2020-04-24 11:43:23) [[36mverbose[39m]: Created a message counter combo for: VFuzball
+(2020-04-24 11:46:53) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 11:46:54) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 11:46:54) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 11:46:55) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 11:46:55) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 11:55:41) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 11:55:41) [[36mverbose[39m]: Created a message counter combo for: VFuzball
+(2020-04-24 13:16:41) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 13:16:42) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 13:16:42) [[36mverbose[39m]: Created a message counter combo for: Xayir
+(2020-04-24 13:16:43) [[36mverbose[39m]: Created a new profile for: Xayir
