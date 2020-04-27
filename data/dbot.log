@@ -313,3 +313,142 @@ Unknown command "sv_fullalltalk"
 maxplayers set to 64
 L 04/24/2020 - 13:12:01: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
 Console: "Entering Pre-playtest..."
+(2020-04-24 14:21:28) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-24 14:21:29) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:21:29) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:21:30) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-24 14:21:30) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-24 14:21:36) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 14:21:36) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:21:36) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:22:21) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 13:22:22: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+(2020-04-24 14:22:27) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 13:22:28: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+(2020-04-24 14:22:34) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 13:22:35: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+(2020-04-24 14:24:38) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:24:38) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-24 14:25:23) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 14:25:23) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:25:23) [[36mverbose[39m]: Created a message counter combo for: PH4NTON
+(2020-04-24 14:25:24) [[36mverbose[39m]: Created a new profile for: PH4NTON
+(2020-04-24 14:25:24) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:25:24) [[36mverbose[39m]: Created a message counter combo for: P0TAT0 .-.
+(2020-04-24 14:26:00) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 14:26:00) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:26:00) [[36mverbose[39m]: Created a new profile for: sneakypanda
+(2020-04-24 14:26:00) [[36mverbose[39m]: Created a message counter combo for: sneakypanda
+(2020-04-24 14:26:52) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:26:52) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-24 14:27:07) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:27:07) [[36mverbose[39m]: Created a message counter combo for: Coachi
+(2020-04-24 14:28:49) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:28:49) [[36mverbose[39m]: Created a message counter combo for: VFuzball
+(2020-04-24 14:31:27) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:31:28) [[36mverbose[39m]: Created a message counter combo for: VFuzball
+(2020-04-24 14:34:39) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:34:39) [[36mverbose[39m]: Created a message counter combo for: enki.
+(2020-04-24 14:35:14) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 14:35:14) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:35:14) [[36mverbose[39m]: Created a new profile for: Myro
+(2020-04-24 14:35:14) [[36mverbose[39m]: Created a message counter combo for: Myro
+(2020-04-24 14:35:42) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:35:42) [[36mverbose[39m]: Created a message counter combo for: Coachi
+(2020-04-24 14:35:44) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:35:45) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-24 14:42:40) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:42:40) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-24 14:44:17) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:44:17) [[36mverbose[39m]: Created a message counter combo for: Coachi
+(2020-04-24 14:46:07) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:46:07) [[36mverbose[39m]: Created a message counter combo for: P0TAT0 .-.
+(2020-04-24 14:53:36) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 14:53:36) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:53:36) [[36mverbose[39m]: Created a new profile for: Peake
+(2020-04-24 14:53:36) [[36mverbose[39m]: Created a message counter combo for: Peake
+(2020-04-24 14:56:06) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:56:06) [[36mverbose[39m]: Created a message counter combo for: PH4NTON
+(2020-04-24 14:56:51) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 14:56:51) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 14:56:52) [[36mverbose[39m]: Created a new profile for: DeadKnife
+(2020-04-24 14:56:52) [[36mverbose[39m]: Created a message counter combo for: DeadKnife
+(2020-04-24 14:58:40) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:58:41) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 14:58:42) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:58:42) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 14:59:51) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:59:52) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 14:59:53) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 14:59:53) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 15:00:02) [[36mverbose[39m]: Playtest live: De_Kalimera [W.I.P.]
+(2020-04-24 15:00:41) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+L 04/24/2020 - 14:00:41: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Playtest..."
+Console: "Entering Casual-Playtest..."
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+Usage:  tv_record  <filename> [-instance <inst> ]
+(2020-04-24 15:00:46) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+maxplayers set to 64
+Unknown command "sv_fullalltalk"
+L 04/24/2020 - 14:00:47: [maptesting.smx] Console<0><Console><Console> says: "Entering Casual-Playtest..."
+Console: "Entering Casual-Playtest..."
+Usage:  tv_record  <filename> [-instance <inst> ]
+(2020-04-24 15:01:57) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 15:01:57) [[36mverbose[39m]: Created a message counter combo for: Peake
+(2020-04-24 15:03:40) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 15:03:41) [[36mverbose[39m]: Created a message counter combo for: Peake
+(2020-04-24 15:04:23) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 15:04:24) [[36mverbose[39m]: Created a message counter combo for: DeadKnife
+(2020-04-24 15:28:29) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 15:28:32) [[33mwarn[39m]: Game server socket closed! Reconnecting...
+(2020-04-24 15:28:33) [[36mverbose[39m]: Got response from game server: 
+(2020-04-24 15:28:33) [[36mverbose[39m]: Game server authorized!
+(2020-04-24 15:28:44) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 14:28:44: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+Attempted to create unknown entity type tar_config!
+Can't init tar_config
+(2020-04-24 15:28:48) [[36mverbose[39m]: Got response from game server: maxplayers set to 64
+Unknown command "sv_fullalltalk"
+maxplayers set to 64
+L 04/24/2020 - 14:28:49: [maptesting.smx] Console<0><Console><Console> says: "Entering Pre-playtest..."
+Console: "Entering Pre-playtest..."
+(2020-04-24 15:37:07) [[33mwarn[39m]: Couldn't find that user
+(2020-04-24 15:37:07) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 15:37:08) [[36mverbose[39m]: Created a new profile for: GingerBread
+(2020-04-24 15:37:08) [[36mverbose[39m]: Created a message counter combo for: GingerBread
+(2020-04-24 15:37:23) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-24 15:37:25) [[36mverbose[39m]: Created a message counter combo for: VFuzball
+(2020-04-27 08:33:20) [[36mverbose[39m]: Listening on port 3000.
+(2020-04-27 08:33:21) [[36mverbose[39m]: Got response from game server: 
+(2020-04-27 08:33:21) [[36mverbose[39m]: Game server authorized!
+(2020-04-27 08:33:22) [[36mverbose[39m]: Logged in as The Green Man#2476!
+(2020-04-27 08:33:22) [[36mverbose[39m]: Running appver 0.1.0
+(2020-04-27 08:42:30) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-27 08:42:30) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
+(2020-04-27 08:46:22) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-27 08:46:22) [[36mverbose[39m]: Created a message counter combo for: Myro
+(2020-04-27 08:52:08) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-27 08:52:09) [[36mverbose[39m]: Created a message counter combo for: PH4NTON
+(2020-04-27 08:52:55) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-27 08:52:56) [[36mverbose[39m]: Created a message counter combo for: Xayir
+(2020-04-27 09:30:50) [[33mwarn[39m]: Couldn't find that user/channel/server combo.
+(2020-04-27 09:30:50) [[36mverbose[39m]: Created a message counter combo for: JonyDrake
