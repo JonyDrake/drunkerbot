@@ -38,6 +38,9 @@ exports.run = (discordClient, message, args) => {
             case 'bot':
                 client.send("bot_kick");
                 break;
+            case 'scramble':
+                client.send("mp_scrambleteams;say Scrambling the Teams");
+                break;
             case 'host':
                 if (!args[1]) {
                     message.channel.send("You need another argument!")
